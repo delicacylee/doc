@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /img/logo.png
-heroText: vuepress-theme-vdoing
-tagline: 🚀一款简洁高效的VuePress 知识管理&博客 主题
+heroText: hiver-admin-pro
+tagline: 🚀一个简易上手的 Spring Cloud 微服务开发平台
 actionText: 开始使用 →
 actionLink: /pages/a2f161/
 bannerBg: none # auto => 网格纹背景(有bodyBgImg时无背景)，默认 | none => 无 | '大图地址' | background: 自定义背景样式       提示：如发现文本颜色不适应你的背景时可以到palette.styl修改$bannerTextColor变量
@@ -52,19 +52,9 @@ postList: none
 ## 🎖特别用户
 ::: cardList 3
 ```yaml
-# - name: OpenHarmony
-#   desc: 开放原子开源基金会
-#   link: https://docs.openharmony.cn/pages/000000/
-#   bgColor: '#f1f1f1'
-#   textColor: '#2A3344'
 - name: MyBatis-Plus官网
   desc: 🚀为简化开发而生
   link: https://baomidou.com/
-  bgColor: '#f1f1f1'
-  textColor: '#2A3344'
-- name: Deepin 社区
-  desc: Deepin 应用开发技术分享、DTK开发经验等
-  link: https://docs.deepin.org
   bgColor: '#f1f1f1'
   textColor: '#2A3344'
 - name: VForm官网
