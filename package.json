@@ -23,5 +23,8 @@
     "vuepress-theme-vdoing": "^1.12.3",
     "yamljs": "^0.3.0"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.17.0 <=16.20.0"
+  }
 }
