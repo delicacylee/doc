@@ -24,7 +24,5 @@
     "yamljs": "^0.3.0"
   },
   "dependencies": {},
-  "engines": {
-    "node": ">=14.17.0 <=16.20.0"
-  }
+  "engines": { "node": "16.x" }
 }
